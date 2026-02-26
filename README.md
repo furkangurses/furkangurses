@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on **CCNA**
 
-- 🌱 I’m currently learning **CNNA, CCNP, AZURE(AZ-900), (AZ-104)**
+- 🌱 I’m currently learning **CNNA, IT, AZURE(AZ-900), (AZ-104)**
 
 - 📫 How to reach me **furkan619f@gmail.com**
